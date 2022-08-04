@@ -31,6 +31,8 @@
         "utility": "cpp",
         "chrono": "cpp",
         "algorithm": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "thread": "cpp",
+        "mutex": "cpp"
     }
 }
